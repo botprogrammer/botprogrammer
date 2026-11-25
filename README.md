@@ -54,8 +54,6 @@ Fun fact: **I do crazy things in React just to distract users from my broken log
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="45" alt="nestjs logo"  />
   <img width="15" />
-  <img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" height="45" alt="amazonwebservices logo"  />
-  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="45" alt="materialui logo"  />
   <img width="15" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="45" alt="tailwindcss logo"  />
